@@ -35,7 +35,7 @@ DEF_H = 8
 def main():
 
     parser = ArgumentParser(description="Image to multicolor tileset (charset)",
-                            epilog="Copyright (C) 2016 Juan J Martinez <jjm@usebox.net>",
+                            epilog="Copyright (C) 2018 Juan J Martinez <jjm@usebox.net>",
                             )
 
     parser.add_argument("--version", action="version", version="%(prog)s "  + __version__)

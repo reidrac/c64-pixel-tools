@@ -32,7 +32,7 @@ DEF_H = 21
 def main():
 
     parser = ArgumentParser(description="Image to multicolor sprite",
-                            epilog="Copyright (C) 2016 Juan J Martinez <jjm@usebox.net>",
+                            epilog="Copyright (C) 2018 Juan J Martinez <jjm@usebox.net>",
                             )
 
     parser.add_argument("--version", action="version", version="%(prog)s "  + __version__)
