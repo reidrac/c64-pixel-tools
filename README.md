@@ -29,7 +29,7 @@ The colors are not included in the output.
 This tools takes an indexed PNG image and encodes it as a valid 4x8 multicolor
 tileset (charset).
 
-The shared colors must me provided as a colon-separated list (eg. 0:1:12). The
-foreground is detected per tile (from 0 to 7, the tools converts it
+The shared colors must be provided as a colon-separated list (eg. 0:1:12). The
+foreground is detected per tile (from 0 to 7, the tool converts it
 automatically to the 8 to 15 range).
 
