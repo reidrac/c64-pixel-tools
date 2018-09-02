@@ -26,7 +26,7 @@ The colors are not included in the output.
 
 ## img2tileset
 
-This tools takes an indexed PNG image and encodes it as a valid 4x8 multicolor
+This tool takes an indexed PNG image and encodes it as a valid 4x8 multicolor
 tileset (charset).
 
 The shared colors must be provided as a colon-separated list (eg. 0:1:12). The
