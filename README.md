@@ -1,6 +1,7 @@
-# C64 Tools
+# C64 Pixel Tools
 
-These are two simple tools I used to make Rescuing Orc for the C64.
+These are two simple tools I used to make Rescuing Orc for the C64 to convert
+PNG images into sprites and tilesets to be used by the Commodore 64.
 
  * `img2sprite.py`
  * `img2tileset.py`
